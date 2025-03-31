@@ -1,0 +1,6 @@
+#include "resources.h"
+
+IDB_SHIP BITMAP DISCARDABLE "ship.bmp"
+IDB_ROCK BITMAP DISCARDABLE "rock.bmp"
+IDB_BULLET BITMAP DISCARDABLE "bullet.bmp"
+IDI_ICON ICON "icon.ico"

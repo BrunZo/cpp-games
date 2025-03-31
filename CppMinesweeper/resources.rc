@@ -1,0 +1,4 @@
+#include "resources.h"
+
+IDB_BOX BITMAP DISCARDABLE "boxes.bmp"
+IDI_ICON ICON "icon.ico"

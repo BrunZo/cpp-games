@@ -1,0 +1,4 @@
+#include "resources.h"
+
+IDB_MINO BITMAP DISCARDABLE "minos.bmp"
+IDI_ICON ICON "icon.ico"

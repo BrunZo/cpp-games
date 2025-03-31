@@ -1,0 +1,5 @@
+#include "resources.h"
+
+IDB_PART BITMAP DISCARDABLE "part.bmp"
+IDB_FRUIT BITMAP DISCARDABLE "fruit.bmp"
+IDI_ICON ICON "icon.ico"
